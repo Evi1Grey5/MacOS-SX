@@ -1,6 +1,9 @@
 # MacOS-SX
 MacOS SX (Stealer) Free 🕵️‍♂️💻(Passwords, cookies, Google Auth, History) Grabber 📤(uploadcare API for exfiltration)
 
+> [!NOTE]  
+> Since the source file weighs a lot, write to the contacts below to get the source code.
+
 ### Stealer has the ability to collect the following information:
 Passwords (Chrome and Brave) x
 Cookies (Chrome and Brave) x 
